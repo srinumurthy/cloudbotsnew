@@ -2,3 +2,6 @@
 *.py
 
 !fifth.py
+
+[aeiou]*.php
+

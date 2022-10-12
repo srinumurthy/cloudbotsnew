@@ -1,1 +1,1 @@
-this is fix for bug1.0
+am i written charan this is fix for bug1.0
